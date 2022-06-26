@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Menu.unity
+    guid: 2801c938b5e733d4092a040ae460d0fa
+  - enabled: 1
+    path: Assets/Scene/Beginning.unity
+    guid: b52662ff7efd52f499e088b5944d5f34
+  - enabled: 1
+    path: Assets/Scene/Town House.unity
+    guid: 157863f1cd5d3fd42b8ee23df28e8fc1
+  - enabled: 1
+    path: Assets/Scene/Ended.unity
+    guid: dd36303507ccc364d9549c70cd3dd642
+  - enabled: 1
+    path: Assets/Scene/Cross Scene.unity
+    guid: 4809ac29da2dd0547badd02420491abb
+  m_configObjects: {}

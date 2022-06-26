@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e48e523eb31268c41a6f2f02e2490ac4, type: 3}
+  m_Name: RedJewelry
+  m_EditorClassIdentifier: 
+  itemName: Red Jewelry
+  category: 1
+  icon: {fileID: 21300000, guid: 25f946da918f0e740b8dc84e4ba808c1, type: 3}
+  detail: Detail
+  isDefaultItem: 0
+  jewelryColor: 0

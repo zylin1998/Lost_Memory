@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b936a3c7edff1f46ae478c21eea9bf9, type: 3}
+  m_Name: Item Pool
+  m_EditorClassIdentifier: 
+  itemList:
+  - item: {fileID: 6129076558736703627, guid: 082255fc60bd8964cb5e5469eb15b97d, type: 3}
+    picked: 0
+    count: 0
+    appearScene:
+    - Town House
+  - item: {fileID: 2443053681806997416, guid: 6a817a240c401d04f8887bf4ef942943, type: 3}
+    picked: 0
+    count: 0
+    appearScene:
+    - Town House
+  - item: {fileID: 7658559755820595338, guid: 38954f47d97ec72438a886fe046ab604, type: 3}
+    picked: 0
+    count: 0
+    appearScene:
+    - Town House
+  - item: {fileID: 2235752719138028787, guid: 3167065126608eb4bae7f1242946fdf3, type: 3}
+    picked: 0
+    count: 0
+    appearScene:
+    - Town House
+  - item: {fileID: 2235752719138028787, guid: 2433579e09875304d96634b26dceca0e, type: 3}
+    picked: 0
+    count: 0
+    appearScene:
+    - Town House
+  - item: {fileID: 2235752719138028787, guid: 801740d8e891403449f5b50ac055fa35, type: 3}
+    picked: 0
+    count: 0
+    appearScene:
+    - Town House
+  - item: {fileID: 2235752719138028787, guid: 06493e1e071d0bd4fbb5af2f89237051, type: 3}
+    picked: 0
+    count: 0
+    appearScene:
+    - Town House
+  - item: {fileID: 2235752719138028787, guid: 707ce03686b9fab4082ef9a4c384445b, type: 3}
+    picked: 0
+    count: 0
+    appearScene:
+    - Town House

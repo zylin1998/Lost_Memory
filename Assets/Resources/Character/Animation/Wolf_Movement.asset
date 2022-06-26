@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28591919116c4c542adade083f08caa3, type: 3}
+  m_Name: Wolf_Movement
+  m_EditorClassIdentifier: 
+  moveAsset: {fileID: 11400000, guid: c2066cd00cfa9444086053ce0cb3ad75, type: 2}
+  landAsset: {fileID: 11400000, guid: 3a255364f3c08b945ae589b68a43e849, type: 2}
+  jumpStart: {fileID: 7478122292733868173, guid: 98f277b0c8055e143b2fcf058d3c27dc, type: 3}
+  inAir: {fileID: -2702400367771620057, guid: 063aa479676c4084ebf187660ca0a7b8, type: 3}
